@@ -4,8 +4,6 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var mongoose = require('mongoose');
 var logger = require('morgan');
-
-
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/api/users');
 var productRouter = require('./routes/api/product');
