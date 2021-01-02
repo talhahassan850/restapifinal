@@ -1,0 +1,4 @@
+{
+    "db": "mongodb://talhahassan:talhahassan@cluster0-shard-00-00.gk7pi.mongodb.net:27017,cluster0-shard-00-01.gk7pi.mongodb.net:27017,cluster0-shard-00-02.gk7pi.mongodb.net:27017/final?ssl=true&replicaSet=atlas-lylu7n-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtPrivateKey": "SomePrivateKey"
+}
